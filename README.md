@@ -2,7 +2,7 @@ This is the frontend of a Web-Application named *Todo app* which is created with
 in this application you can `add, remove, edit/update` your todo.
 
 #### Visit the app : 
-https://jagan-todo.glitch.me/ 
+` https://jagan-todo.glitch.me/ `
 
 ## Requirements:
 Requirements are in *package.json* file but you can simply create the react environment by using
