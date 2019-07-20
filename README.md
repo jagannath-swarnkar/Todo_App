@@ -6,7 +6,6 @@ in this application you can `add, remove, edit/update` your todo.
 
 ## Requirements:
 Requirements are in *package.json* file but you can simply create the react environment by using 
-
 this command `npx create-react-app todo-app` \nafter running this command a demo project of react will create on your system with directory `todo-app` and here you will find all your requirements.
 
 now run the command `npm start`, automaticaly a tab will open in your browser that will open the react demo application. or the url will show in console, copy that and paste in any browser to open the application.
