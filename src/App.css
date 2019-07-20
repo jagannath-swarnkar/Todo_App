@@ -1,0 +1,92 @@
+.App {
+  text-align: center;
+  font-family: 'Noticia Text', serif;
+}
+
+.header{
+  background: #e91e63;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 500;
+  padding: 15px;
+}
+.body{}
+.body ul{
+  margin: 0;
+  padding:15px;
+}
+
+.body ul li{
+  list-style: none;padding: 10px;
+  margin-bottom: 10px;
+  background: #ddd;
+
+}
+.delete{
+  color: white;
+  float: right;
+  cursor: pointer;
+}
+.footer{
+  position: fixed;
+  background: #e91e63;
+  padding: 15px;
+  width: 100%;
+  bottom: 0;
+}
+.footer input:focus{outline:none}
+.footer input{
+  width: 90%;
+  margin: auto;
+  background:transparent;
+  border:none;
+  border-bottom: 2px solid #fff;
+  color: #fff;
+  font-size: 17px;
+  height: 35px;
+}
+.footer button:focus{outline:none}
+.footer button{
+  cursor: pointer;
+  color: #fff;
+  position: absolute;
+  top: -18px;
+  right: 50px;
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  font-size: 26px;
+  border: none;
+  background: #e91363;
+  box-shadow: 2px 2px 3px;
+}
+#indexing{
+  float: left;
+  color: blue;
+  cursor:auto;
+  margin-left: 0;
+  margin-right: 20px;
+}
+#delete{
+  margin-left: 20;
+  margin-right: 0px;
+}
+.edit{
+  float: right;
+  margin: 0px 20px;
+}
+#update{
+  cursor: pointer;
+  color: #fff;
+  position: absolute;
+  top: -18px;
+  right: 41px;
+  height: auto;
+  width: 100px;
+  border-radius: 8px;
+  font-size: 28px;
+  border: none;
+  background: #e91363;
+  box-shadow: 2px 2px 3px;
+  display: none;
+}
